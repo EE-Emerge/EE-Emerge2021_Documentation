@@ -1,6 +1,6 @@
 "Index","Quantity","Part Number","Manufacturer Part Number","Description","Customer Reference","Available","Backorder","Unit Price","Extended Price USD"
 "1","1","CR0805-JW-221ELFCT-ND","CR0805-JW-221ELF","RES SMD 220 OHM 5% 1/8W 0805","","1","0","0.10000","0.10"
-"2","1","2019-RK73G2ATTD1002FCT-ND","RK73G2ATTD1002F","THICKFILM RESISTOR 0805","","1","0","0.29000","0.29"
+"2","1","2019-RK73G2ATTD1002FCT-ND","RK73G2ATTD1002F","THICKFILM RESISTOR 0805","this is a 10k res","1","0","0.29000","0.29"
 "3","1","LS4148-GS18CT-ND","LS4148-GS18","DIODE GEN PURP 75V 150MA SOD80","","1","0","0.14000","0.14"
 "4","1","A121480-ND","5-146280-2","CONN HEADER VERT 2POS 2.54MM","","1","0","0.34000","0.34"
 "5","1","1727-2969-1-ND","BSP89,115","MOSFET N-CH 240V 375MA SOT223","","1","0","0.50000","0.50"
